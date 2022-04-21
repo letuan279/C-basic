@@ -1,0 +1,12 @@
+ID    MSSV                    NAME                    SDT                     Diem        
+1     20181110                Bui_Van                 0903112234              10          
+2     20182111                Joshua_Kim              0912123232              10          
+3     20205136                Le_Anh_Tuan             0389935193              10          
+4     20205135                Tran_Tien_Ngoc          0123456789              10          
+5     20205134                Vu_Anh_Quan             0916064413              10          
+6     20205123                Tran_Minh_Tuan          0998877665              10          
+7     20205555                Pham_Duc_Thang          0987654321              10          
+8     20202020                Hoang_Nhu_Nghia         0999999999              10          
+9     20202021                Nguyen_Quang_Truong     0989898989              10          
+10    20206789                Hoang_Danh_Quan         0909090909              10          
+11    20205138                Le_Tuan_Anh             0916064412              10          

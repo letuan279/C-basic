@@ -1,0 +1,3 @@
+1 Samsung_Television_4K 20000000
+2 Apple_MacBook_2020 18560000
+3 OPPO_F9_2019 7900000
